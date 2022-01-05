@@ -4,6 +4,10 @@
 
 ## Screenshots
 
+<img src="https://github.com/IT-Craft-Solution/Classroom/blob/master/combine_images.png" >
+
+<br/><br/>
+
 <img src="https://github.com/IT-Craft-Solution/Classroom/blob/master/Screenshots/image-1.jpeg" height="550" width="300" hspace="40">
 <img src="https://github.com/IT-Craft-Solution/Classroom/blob/master/Screenshots/image-2.jpeg" height="550" width="300" hspace="40">
 <img src="https://github.com/IT-Craft-Solution/Classroom/blob/master/Screenshots/image-3.jpeg" height="550" width="300" hspace="40">
